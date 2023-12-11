@@ -14,7 +14,7 @@ This project is a web application designed to serve as a platform for sharing an
 
 View the Live link.
 
-<a href="">View Live</a>
+<a href="https://victoriagitonga.github.io/Blog-website/">View Live</a>
 
 
 ## Features
