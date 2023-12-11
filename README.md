@@ -7,7 +7,7 @@ This project is a web application designed to serve as a platform for sharing an
 
 ## Figma design
 
-<a href="#">View our Figma Design</a>
+<a href="https://www.figma.com/file/C3IP0dOp0NYRNnQjVApIe1/Untitled?type=design&mode=design&t=c9YV0VfzqJjhnm9N-1">View our Figma Design</a>
 
 
 ## Live Link
