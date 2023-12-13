@@ -30,6 +30,7 @@ View the Live link.
 
 * HTML
 * CSS
+* JS
 * FIGMA
 
 ## How to run the project locally
@@ -52,4 +53,4 @@ This project is licensed under the MIT License.
 Email : nyakiowagitonga@gmail.com
         nyathirawaithiru@gmail.com
 
-## Contributing
+
